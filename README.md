@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akbarumarxujayev
+- 👋 Hi, I’m Akbar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on 
